@@ -1,5 +1,4 @@
 # QRadar SMS Notification
-___
 
 Send text messages from QRadar ”Custom Actions” using Twilio API in a bash file. 
 
