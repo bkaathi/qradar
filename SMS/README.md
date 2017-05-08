@@ -14,11 +14,11 @@ Send text messages from QRadar ”Custom Actions” using Twilio API in a bash f
 1. Go to _Admin_ tab and select _Define Actions_ under _Custom Actions_
 2. Select _Add_ from top menu options
 3. Provide the following:
-⋅⋅* Name
-⋅⋅* Description
-⋅⋅* Interpreter: Bash
-⋅⋅* Upload SMS Bash/Curl script
-⋅⋅* Fix Property Value
+  * Name
+  * Description
+  * Interpreter: Bash
+  * Upload SMS Bash/Curl script
+  * Fix Property Value
 4. Click _Add_
 5. Click _Save_
 
